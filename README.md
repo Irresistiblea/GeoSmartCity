@@ -3,3 +3,4 @@
 作者：IrresistibleLKC
 项目统一包名：com.irb.geosmartcity.smartcity-xxx(product)
 目前包含模块：商品服务、用户服务
+test
